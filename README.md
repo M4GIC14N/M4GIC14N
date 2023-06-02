@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **M4GIC14N/M4GIC14N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=M4GIC14N&show_icons=true&theme=dracula&count_private=true)
